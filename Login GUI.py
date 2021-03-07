@@ -1,6 +1,6 @@
 #### Christian Orellana
 #### June 2020
-#### Tkinter App For Logging into an App
+#### Tkinter App For Logging into a Website via a local gui on a windows 10 machine
 
 """
 The following requirements are needed for this app:
